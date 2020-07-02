@@ -1,0 +1,26 @@
+.main_div {
+  background:#f0f2f4;
+  height: -webkit-fill-available;
+}
+.row {
+  margin: 0px;
+}
+.table {
+  margin: 10px;
+}
+
+.student-grid {
+  margin: 10px;
+}
+
+.emptyMessage {
+  height: 200px;
+  line-height:13;
+  text-align: center;
+}
+
+.details_pane{
+  background: #fff;
+  padding: 10px;
+  box-shadow: inset -4px -6px 20px 5px #cfcfcf
+}
